@@ -1,32 +1,32 @@
-# ToDo List -Ensolvers-
+# To Do List -Ensolvers-
 <br />
 Requisitos:
 <br />
 =============================================
 <br />
-Incluidos en el paquete 3.3.0 de XAMPP
+Mudulos en el paquete 3.3.0 de XAMPP
 <br />
-..MariaDB 10.4.19
+__MariaDB 10.4.19
 <br />
-..PHP 8.0.6
+__PHP 8.0.6
 <br />
-..Apache 2.4.47
+__Apache 2.4.47
 <br />
-Dependientes de Internet o browsers
+Dependientes del browsers
 <br />
-....Google Chrome 91.0.4472.77
+___Google Chrome 91.0.4472.77
 <br />
-....JavaScript ES6
+___JavaScript ES6
 <br />
 Conexion a Internet para cargar CDN de:
 <br />
-....JQuery 3.6.0
+___JQuery 3.6.0
   <br />
-....Bootstrap 5    
+___Bootstrap 5    
   
 Credenciales de Ingreso:
 =============================================
-Las credenciales se deben estar en minusculas. La contraseña esta hasheada en la base de datos.
+Las credenciales se deben estar en minúsculas. La contraseña esta hasheada en la base de datos.
 <br />
 Usuario: admin
 <br />
@@ -34,36 +34,36 @@ Contraseña: admin
 
 Configuracion:
 =============================================
-1 Importar la base de datos incluida en la carpeta "db".
+1 Importar la base de datos todo_list.sql incluida en la carpeta "db".
 <br />
   -La importacion creara una base con nombre todo_list por defecto. 
   <br />
-  -Dentro de ella tres tablas tasks, folders y users (unica con contenido).
+  -Dentro de ella generara tres tablas tasks, folders y users (unica con contenido).
   <br />
-2 Volcar los archivos en htdocs(raiz o subcarpeta) dentro de la carpeta XAMPP, respetando la jerarquia mostrada.
+2 Volcar los archivos en htdocs(raiz o subcarpeta) dentro de la carpeta XAMPP, respetando la jerarquia dada.
 <br />
-3 Abrir el localhost si se volcaron en raiz o localhost/subdirecto de caso contrario previo inicio de XAMPP.
+3 Abrir el localhost si se volcaron en raiz o localhost/subdirecto de caso contrario, previo inicio de XAMPP.
 <br />
 
 Que se realizo?:
 =============================================
-*Formulario de ingreso con validaciones sencillas.
+Formulario de ingreso con validaciones sencillas.
 <br />
-*Vista de lista de carpetas de tareas con validaciones sencillas.
+Vista de lista de carpetas de tareas con validaciones sencillas.
 <br />
-*Vista de creacion carpetas de tareas con validaciones sencillas.
+Vista de creacion carpetas de tareas con validaciones sencillas.
 <br />
-*Opcion de eliminacion de carpetas de tareas con validaciones sencillas.
+Opcion de eliminacion de carpetas de tareas con validaciones sencillas.
 <br />
-*Vista de lista de tareas dentro de carpetas con validaciones sencillas.
+Vista de lista de tareas dentro de carpetas con validaciones sencillas.
 <br />
-*Vista de creacion de tareas dentro de carpetas con validaciones sencillas.
+Vista de creacion de tareas dentro de carpetas con validaciones sencillas.
 <br />
-*Opciones de edicion de estado mediante checkbox.
+Opcion de edicion del estado de la tareas.
 <br />
-*Cerrado de sesion.
+Cerrado de sesion.
 <br />
-*Diseño responsivo mediante Bootstrap.
+Diseño responsivo mediante Bootstrap.
 
 Sobre el Desarollo:
 =============================================
@@ -79,8 +79,8 @@ Consultas SQL utilizando PDO-SQL.
 
 Que falto?:
 =============================================
-*Modificacion del nombre de tareas. (por falta de tiempo)
+*Modificacion del nombre de tareas.
 
 Opinion personal
 =============================================
-Un reto simple pero divertivo, no obstante tuvo su complejidad dado que decidi realizarlo con los nuevos conociemientos que he aprendido en el ultimo tiempo para evitar que el vista se recargue por cada accion, ademas de utilizar un metodo mas confiable de SQL. Sumado a que tuve que migrar recientemente a Visual Studio Code porque Brackets ya no tiene soporte. Pero en resumen fue una gran experiencia.
+Un reto simple pero divertido, no obstante tuvo su complejidad dado que decidí realizarlo con los nuevos conocimientos que he aprendido en el ultimo tiempo para evitar que la vista se recargue por cada acción, además de utilizar un método mas robusto como PDO-SQL. Sumado a que recientemente migre a Visual Studio Code porque Brackets ya no tiene soporte. Pero en resumen fue una gran experiencia.
