@@ -1,26 +1,28 @@
 # ToDo List -Ensolvers-
 <br />
 Requisitos:
+<br />
 =============================================
+<br />
 Incluidos en el paquete 3.3.0 de XAMPP
 <br />
-*MariaDB 10.4.19
+>*MariaDB 10.4.19
 <br />
-*PHP 8.0.6
+>*PHP 8.0.6
 <br />
-*Apache 2.4.47
+>*Apache 2.4.47
 <br />
 Dependientes de Internet o browsers
 <br />
-*Google Chrome 91.0.4472.77
+>>*Google Chrome 91.0.4472.77
 <br />
-*JavaScript ES6
+>>*JavaScript ES6
 <br />
-*Conexion a Internet para cargar CDN de:
+>*Conexion a Internet para cargar CDN de:
 <br />
-  -JQuery 3.6.0
+>>  -JQuery 3.6.0
   <br />
-  -Bootstrap 5    
+>>  -Bootstrap 5    
   
 Credenciales de Ingreso:
 =============================================
