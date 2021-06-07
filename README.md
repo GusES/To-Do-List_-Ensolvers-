@@ -6,23 +6,23 @@ Requisitos:
 <br />
 Incluidos en el paquete 3.3.0 de XAMPP
 <br />
->*MariaDB 10.4.19
+$nbsp;*MariaDB 10.4.19
 <br />
->*PHP 8.0.6
+$nbsp;*PHP 8.0.6
 <br />
->*Apache 2.4.47
+$nbsp;*Apache 2.4.47
 <br />
 Dependientes de Internet o browsers
 <br />
->>*Google Chrome 91.0.4472.77
+$nbsp;$nbsp;*Google Chrome 91.0.4472.77
 <br />
->>*JavaScript ES6
+$nbsp;$nbsp;*JavaScript ES6
 <br />
->*Conexion a Internet para cargar CDN de:
+$nbsp;Conexion a Internet para cargar CDN de:
 <br />
->>  -JQuery 3.6.0
+$nbsp;$nbsp;  -JQuery 3.6.0
   <br />
->>  -Bootstrap 5    
+$nbsp;$nbsp;  -Bootstrap 5    
   
 Credenciales de Ingreso:
 =============================================
