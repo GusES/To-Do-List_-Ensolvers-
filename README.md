@@ -19,8 +19,8 @@
 Credenciales de Ingreso:
 =============================================
 Las credenciales se deben estar en minúsculas.<br>La contraseña esta hasheada en la base de datos.<br />
-Usuario: admin<br />
-Contraseña: admin
+Usuario: <b>admin</b><br />
+Contraseña: <b>admin</b>
 
 Configuracion:
 =============================================
