@@ -7,18 +7,18 @@ XAMPP 3.3.0
 </ul>
 Dependientes del browsers
 <ul>
-<li>Google Chrome 91.0.4472.77<li/>
-<li>JavaScript ES6<li/>
-  </ul>
+  <li>Google Chrome 91.0.4472.77</li>
+  <li>JavaScript ES6</li>
+</ul>
 Conexion a Internet para cargar CDN de:
 <ul>
-<li>JQuery 3.6.0<li/>  
-<li>Bootstrap 5<li/>
+<li>JQuery 3.6.0</li>  
+<li>Bootstrap 5</li>
 </ul>
   
 Credenciales de Ingreso:
 =============================================
-Las credenciales se deben estar en minúsculas. La contraseña esta hasheada en la base de datos.<br />
+Las credenciales se deben estar en minúsculas.<br>La contraseña esta hasheada en la base de datos.<br />
 Usuario: admin<br />
 Contraseña: admin
 
