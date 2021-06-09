@@ -1,5 +1,5 @@
 # Requisitos:
-<p class="mb-0">XAMPP 3.3.0</p>
+<p style="margin-bottom:0 !important;">XAMPP 3.3.0</p>
 <ul>
   <li>MariaDB 10.4.19</li>
   <li>PHP 8.0.6</li>
