@@ -1,14 +1,15 @@
 # To Do List -Ensolvers-<br/>Requisitos:
-Mudulos en el paquete 3.3.0 de XAMPP
+XAMPP 3.3.0
 <ul>
   <li>MariaDB 10.4.19</li>
   <li>PHP 8.0.6</li>
   <li>Apache 2.4.47</li>
 </ul>
-<br/>
 Dependientes del browsers
+<ul>
 <li>Google Chrome 91.0.4472.77<li/>
 <li>JavaScript ES6<li/>
+  </ul>
 Conexion a Internet para cargar CDN de:
 <ul>
 <li>JQuery 3.6.0<li/>  
@@ -25,7 +26,7 @@ Configuracion:
 =============================================
 1 Importar la base de datos todo_list.sql incluida en la carpeta "db". La importacion creara una base con nombre todo_list por defecto. 
 2 Volcar los archivos en htdocs(raiz o subcarpeta) dentro de la carpeta XAMPP, respetando la jerarquia dada.<br />
-3 Abrir el localhost si se volcaron en raiz o localhost/subdirecto de caso contrario, previo inicio de XAMPP.<br />
+3 Abrir el localhost si se volcaron en raiz o localhost/subdirecto de caso contrario, previo inicio de XAMPP.
 
 Que se realizo?:
 =============================================
