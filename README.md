@@ -1,16 +1,16 @@
 # Requisitos:
-<p style='margin-bottom: 0 !important;'>XAMPP 3.3.0</p>
+<p>XAMPP 3.3.0</p>
 <ul>
   <li>MariaDB 10.4.19</li>
   <li>PHP 8.0.6</li>
   <li>Apache 2.4.47</li>
 </ul>
-Dependientes del browsers
+<p>Dependientes del browsers</p>
 <ul>
   <li>Google Chrome 91.0.4472.77</li>
   <li>JavaScript ES6</li>
 </ul>
-Conexion a Internet para cargar CDN de:
+<p>Conexion a Internet para cargar CDN de:</p>
 <ul>
 <li>JQuery 3.6.0</li>  
 <li>Bootstrap 5</li>
