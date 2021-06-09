@@ -1,4 +1,5 @@
-# To Do List -Ensolvers-<br/>Requisitos:
+# To-Do List Ensolvers
+# Requisitos:
 XAMPP 3.3.0
 <ul>
   <li>MariaDB 10.4.19</li>
@@ -24,7 +25,7 @@ Contraseña: admin
 
 Configuracion:
 =============================================
-1 Importar la base de datos todo_list.sql incluida en la carpeta "db". La importacion creara una base con nombre todo_list por defecto. 
+1 Importar la base de datos todo_list.sql incluida en la carpeta "db". La importacion creara una base con nombre todo_list por defecto. <br/>
 2 Volcar los archivos en htdocs(raiz o subcarpeta) dentro de la carpeta XAMPP, respetando la jerarquia dada.<br />
 3 Abrir el localhost si se volcaron en raiz o localhost/subdirecto de caso contrario, previo inicio de XAMPP.
 
@@ -50,7 +51,7 @@ Consultas SQL utilizando PDO-SQL.
 
 Que falto?:
 =============================================
-*Modificacion del nombre de tareas.
+Modificacion del nombre de tareas.
 
 Opinion personal
 =============================================
