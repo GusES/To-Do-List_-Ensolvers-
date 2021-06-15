@@ -51,7 +51,3 @@ Consultas SQL utilizando PDO-SQL.
 Que falto?
 =============================================
 Modificación del nombre de tareas.
-
-Opinion personal
-=============================================
-Un reto simple pero divertido, no obstante tuvo su complejidad dado que decidí realizarlo con los nuevos conocimientos que he aprendido en el ultimo tiempo para evitar que la vista se recargue por cada acción, además de utilizar un método mas robusto como PDO-SQL. Sumado a que recientemente migre a Visual Studio Code porque Brackets ya no tiene soporte. Pero en resumen fue una gran experiencia.
